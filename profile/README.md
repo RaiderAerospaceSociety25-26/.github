@@ -1,7 +1,7 @@
 # Raider Aerospace Society 25-26 🚀
 
 Welcome to the official GitHub organization for the **Raider Aerospace Society** at Texas Tech University (2025–2026 team).  
-We design, build, and test rocketry systems for the **Spaceport America Cup (IREC)** in the 10k SRAD category.
+We design, build, and test rocketry systems for the **IREC Competition** in the 10k SRAD category.
 
 ---
 
@@ -10,7 +10,7 @@ We design, build, and test rocketry systems for the **Spaceport America Cup (IRE
 We maintain separate repositories for each major subsystem:
 
 - **[srad-flight-computer](https://github.com/RaiderAerospaceSociety25-26/srad-flight-computer)**  
-  Custom avionics system (PCB + firmware) that integrates sensors, logging, servo-driven airbrakes, and flight control logic.
+  Custom avionics system (PCB + firmware) that integrates sensors, logging, servo-driven airbrakes, and recovery logic.
 
 - **[tracking-groundstation](https://github.com/RaiderAerospaceSociety25-26/tracking-groundstation)**  
   Dual-link RF ground station for telemetry and live video, including antenna tracking and operator interface.
@@ -49,7 +49,7 @@ Other supporting repos will be added as the year progresses.
 
 - **New members:** Check the onboarding docs in each repo’s `/docs` folder.
 - **Current contributors:** Pick issues from the Projects board, assign yourself, and follow the workflow.
-- **Questions:** Use our Teams channel or open a [discussion](https://github.com/orgs/RaiderAerospaceSociety25-26/discussions) if enabled.
+- **Questions:** Use our Teams groupchat, if you dont have access reach out to Logan.
 
 ---
 
@@ -57,10 +57,6 @@ Other supporting repos will be added as the year progresses.
 
 - Texas Tech Raider Aerospace Society
 - Avionics Team Lead: Logan R.
-- [Official Website](https://www.texastech.edu/) _(placeholder — replace if you have a team site)_
+- [Official Website](https://www.raideraerospace.com/)
 
 ---
-
-<p align="center">
-  <em>"Per Aspera Ad Astra – Through difficulties to the stars."</em>
-</p>
